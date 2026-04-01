@@ -10,3 +10,5 @@ ex00/*
 # Python cache
 __pycache__/
 *.pyc
+
+data/
